@@ -10,4 +10,5 @@ Funtions:
 
 Integration to IsaacLab:
 Download the `grasp.py` file and copy it under the Isaac Lab direction: `[path-to-IsaacLab]/scripts/grasp/grasp.py`
+
 `for example`: /Home/user0/IsaacLab/scripts/grasp/grasp.py`
